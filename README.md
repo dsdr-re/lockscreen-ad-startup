@@ -4,7 +4,12 @@
 개발자는 이 SDK를 앱에 추가하기만 하면, 별도의 잠금화면 앱을 새로 만들지 않고도
 잠금화면 광고 지면을 확보하고 사용자에게 리워드를 지급할 수 있다.
 
-기획 배경은 [PLAN_LOCKSCREEN_AD.md](./PLAN_LOCKSCREEN_AD.md) 참고.
+## 로드맵
+
+| 문서 | 한 줄 소개 | 상태 |
+|---|---|---|
+| [PLAN_LOCKSCREEN_AD.md](./PLAN_LOCKSCREEN_AD.md) | 잠금화면 광고 SDK 핵심 리워드 로직 | MVP 개발 중 |
+| [PLAN_AD_TARGETING.md](./PLAN_AD_TARGETING.md) | 리뷰 감성 기반 광고 타겟팅 최적화 | 다음 스프린트 |
 
 ## 현재 상태
 
